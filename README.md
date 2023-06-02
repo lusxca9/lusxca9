@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<!--
-**lusxca9/lusxca9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+maluuu
+<!-
 
 Here are some ideas to get you started:
 
